@@ -1,0 +1,104 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\splashs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|solutionrelative:lcd_ekran\\splashs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|solutionrelative:lcd_ekran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|solutionrelative:lcd_ekran\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|solutionrelative:lcd_ekran\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|c:\\users\\fromt\\desktop\\proteus-ekran-ayarlama-main\\lcd_ekran\\lcd_ekran\\splashs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{DB763526-E111-4338-8052-6ACDD7D904F9}|lcd_ekran\\lcd_ekran.csproj|solutionrelative:lcd_ekran\\splashs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Form1.cs",
+              "RelativeDocumentMoniker": "lcd_ekran\\Form1.cs",
+              "ToolTip": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Form1.cs",
+              "RelativeToolTip": "lcd_ekran\\Form1.cs",
+              "ViewState": "AQIAAEIAAAAAAAAAAAAYwE4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:46:04.084Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Program.cs",
+              "RelativeDocumentMoniker": "lcd_ekran\\Program.cs",
+              "ToolTip": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Program.cs",
+              "RelativeToolTip": "lcd_ekran\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:58:22.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SplashS.cs",
+              "DocumentMoniker": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\SplashS.cs",
+              "RelativeDocumentMoniker": "lcd_ekran\\SplashS.cs",
+              "ToolTip": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\SplashS.cs",
+              "RelativeToolTip": "lcd_ekran\\SplashS.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABgAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:57:31.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SplashS.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\SplashS.cs",
+              "RelativeDocumentMoniker": "lcd_ekran\\SplashS.cs",
+              "ToolTip": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\SplashS.cs [Tasar\u0131m]",
+              "RelativeToolTip": "lcd_ekran\\SplashS.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T15:52:08.719Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Form1.cs",
+              "RelativeDocumentMoniker": "lcd_ekran\\Form1.cs",
+              "ToolTip": "C:\\Users\\fromt\\Desktop\\Proteus-Ekran-Ayarlama-main\\lcd_ekran\\lcd_ekran\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "lcd_ekran\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T17:41:34.331Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
